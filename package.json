@@ -1,0 +1,26 @@
+{
+  "name": "pretium-balance-calculation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonbnk/pretium-balance-calculation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fonbnk/pretium-balance-calculation/issues"
+  },
+  "homepage": "https://github.com/fonbnk/pretium-balance-calculation#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
