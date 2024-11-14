@@ -2,7 +2,6 @@ import prompts from "prompts";
 
 import * as math from "mathjs";
 import axios from "axios";
-import { reducedPlanckConstantDependencies } from "mathjs";
 
 type FeeSettings = {
   percentage?: { min: number; max: number | "Infinity"; value: number }[];
